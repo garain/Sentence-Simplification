@@ -1,4 +1,4 @@
-# Sentence-Simplification
+# Sentence-Simplification [![HitCount](http://hits.dwyl.com/garain/Sentence-Simplification.svg)](http://hits.dwyl.com/garain/Sentence-Simplification)
 Tool to simplify complex and compound sentences to simple sentences implemented using Python
 
 # Data input
